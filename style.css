@@ -1,0 +1,39 @@
+.header,
+.title-container,
+.footer {
+    background-color: #1F2937;
+    color: white;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;  
+}
+
+.img-placeholder {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+li,
+.subtitle {
+    font-size: 18px;
+    color: #E5E7EB;  
+}
+
+.button-primary {
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
